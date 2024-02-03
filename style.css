@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#game-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    /* Add any additional styling for your game container */
+}
